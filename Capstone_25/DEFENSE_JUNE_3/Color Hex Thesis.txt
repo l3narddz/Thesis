@@ -1,0 +1,34 @@
+#000 - black
+#008080 - green
+#e2e827 - yellow
+#dfe34f - light yellow
+#FFFFFF - White
+#067979 - green 2
+#187bed - blue
+#226dc9 - darkblue
+#378bed - btnlightblue
+#e2e827 - nav hover yellow
+
+body blue
+background: -webkit-linear-gradient(left, #187bed, #226dc9);
+background: linear-gradient(to right, #c3d1db, #226dc9);
+
+>
+
+body white 
+background: -webkit-linear-gradient(left, #e3edfa, #a4c7f5);
+background: linear-gradient(to right, #fff, #a4c7f5); 
+
+> 
+topnav blue dark 
+
+  background: -webkit-linear-gradient(left, #1177ed, #1a66c4);
+  background: linear-gradient(to right, #baccd9, #1a66c4);
+
+> 
+
+topnav light blue
+  background: -webkit-linear-gradient(left,#b0cef5, #a4c7f5);
+  background: linear-gradient(to right, #edf2f7, #a4c7f5);
+
+
